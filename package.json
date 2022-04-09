@@ -1,0 +1,23 @@
+{
+  "name": "sdea3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^6.3.1",
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://source.developers.google.com/p/assignment-3-sde/r/new-repo"
+  },
+  "devDependencies": {},
+  "description": ""
+}
